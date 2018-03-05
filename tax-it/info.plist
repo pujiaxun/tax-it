@@ -71,7 +71,7 @@ puts calc.fk_it
 				<key>scriptfile</key>
 				<string>calc.py</string>
 				<key>subtext</key>
-				<string>请输入除去五险一金等之后的收入</string>
+				<string>请输入扣去五险一金之后的收入</string>
 				<key>title</key>
 				<string>应纳税所得额</string>
 				<key>type</key>
